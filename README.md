@@ -24,6 +24,9 @@ The system ingests **sensor, application, and transaction data** through Conflue
 **Live Monitoring & Visualization** with Grafana & Kibana  
 **Secure API Endpoints** via Flask  
 
+## 📌 Architecture Diagram
+![Architecture Diagram](Architecture.png)
+
 ## How to Run This Project
 To set up and run the pipeline locally:
 
