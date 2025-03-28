@@ -56,4 +56,5 @@ Visualization & Monitoring: Grafana, Kibana
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Dashboard Screenshot
-![Dashboard Screenshot](NYC_Taxi.jpg)
+![Dashboard Screenshot1](Dashboard using Kibana.png)
+![Dashboard Screenshot2](Data Generation from Mobile using Flask.png)
