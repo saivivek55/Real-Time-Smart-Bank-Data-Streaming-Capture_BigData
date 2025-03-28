@@ -59,4 +59,4 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ![Dashboard Screenshot1](Dashboard using Kibana.png)
 
 ## 📌 Architecture Diagram
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](Dashboard using Kibana.png)
