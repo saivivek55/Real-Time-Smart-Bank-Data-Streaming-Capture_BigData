@@ -57,4 +57,4 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 
 ## Dashboard Screenshot
 ![Dashboard Screenshot1](Dashboard using Kibana.png)
-![Dashboard Screenshot2](Data Generation from Mobile using Flask.png)
+
